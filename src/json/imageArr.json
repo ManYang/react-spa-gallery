@@ -1,47 +1,68 @@
 [
 	{
 		"fileName":"1.png",
-		"title": "center",
-		"desc": "center"
+		"title": "The World Is Too Much with Us",
+		"desc": "William Wordsworth"
 	},	{
 		"fileName":"2.jpeg",
 		"title": "1",
-		"desc": "1"
+		"desc": "The world is too much with us; late and soon,"
 	},	{
 		"fileName":"3.jpeg",
-		"title": "1",
-		"desc": "1"
+		"title": "2",
+		"desc": "Getting and spending, we lay waste our powers;"
 	},	{
 		"fileName":"4.jpeg",
-		"title": "1",
-		"desc": "1"
+		"title": "3",
+		"desc": "Little we see in Nature that is ours;"
 	},	{
 		"fileName":"5.jpeg",
-		"title": "1",
-		"desc": "1"
+		"title": "4",
+		"desc": "We have given our hearts away, a sordid boon!"
 	},	{
 		"fileName":"6.jpeg",
-		"title": "1",
-		"desc": "1"
+		"title": "5",
+		"desc": "This Sea that bares her bosom to the moon,"
 	},	{
 		"fileName":"7.jpeg",
-		"title": "1",
-		"desc": "1"
+		"title":"6",
+		"desc": "The winds that will be howling at all hours,"
 	},	{
 		"fileName":"8.jpeg",
-		"title": "1",
-		"desc": "1"
+		"title":"7" ,
+		"desc": "And are up-gathered now like sleeping flowers,"
 	},	{
 		"fileName":"9.jpeg",
-		"title": "1",
-		"desc": "1"
+		"title": "8",
+		"desc": "For this, for everything, we are out of tune;"
 	},	{
 		"fileName":"10.jpeg",
-		"title": "1",
-		"desc": "1"
+		"title": "9",
+		"desc": "It moves us not. --Great God! I'd rather be"
 	},	{
 		"fileName":"11.jpeg",
-		"title": "1",
-		"desc": "1"
+		"title": "10",
+		"desc": "A Pagan suckled in a creed outworn;"
+	},
+	{
+		"fileName":"12.jpeg",
+		"title": "11",
+		"desc": "So might I, standing on this pleasant lea,"
+	},
+	{
+		"fileName":"13.jpeg",
+		"title": "12",
+		"desc": "Have glimpses that would make me less forlorn;"
+	},
+	{
+		"fileName":"14.jpeg",
+		"title": "13",
+		"desc": "Have sight of Proteus rising from the sea;"
+	},
+	{
+		"fileName":"15.jpeg",
+		"title": "14",
+		"desc": "Or hear old Triton blow his wreathèd horn."
 	}
+
 ]
